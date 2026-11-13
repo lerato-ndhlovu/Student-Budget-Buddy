@@ -16,6 +16,20 @@ The application provides a central place for students to record financial transa
 - **Financial Reports:** Provides expense breakdowns by category and monthly income-versus-expense comparisons.
 - **Data Storage:** Uses SQLite to store transactions and budgets.
 
+## Screenshots
+
+### Dashboard
+![Student Budget Buddy Dashboard](assets/dashboard.png)
+
+### Transaction Management
+![Transaction Management](assets/transactions.png)
+
+### Budget Planner
+![Budget Planner](assets/budget-planner.png)
+
+### Financial Reports
+![Financial Reports](assets/financial-reports.png)
+
 ## Technologies Used
 
 - Python
