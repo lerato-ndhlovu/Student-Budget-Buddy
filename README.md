@@ -80,6 +80,3 @@ Student Budget Buddy uses SQLite for data storage. The database stores transacti
 ## Purpose
 
 This project was developed as part of the FNB Academy Programme to apply programming, database management and application development concepts to a practical problem affecting university students.
-
-### AI Assistance Acknowledgement
-This project was developed by me with assistance from ChatGPT (OpenAI), which I used as a support tool for understanding Python and Flet concepts, troubleshooting errors, and improving my code. I was responsible for the project's implementation, testing, and final decisions.
